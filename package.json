@@ -1,0 +1,24 @@
+{
+  "name": "parcel-plugin-eslint-vue",
+  "version": "1.0.0",
+  "description": "eslint plugin for parcel, support vue and js. eslint error will display on console and web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harley005/parcel-plugin-eslint-vue.git"
+  },
+  "keywords": [
+    "parcel",
+    "eslint",
+    "vue"
+  ],
+  "author": "harl@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harley005/parcel-plugin-eslint-vue/issues"
+  },
+  "homepage": "https://github.com/harley005/parcel-plugin-eslint-vue#readme"
+}
