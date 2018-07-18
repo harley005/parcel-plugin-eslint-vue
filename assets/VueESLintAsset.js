@@ -1,4 +1,4 @@
-const VueAsset = require('parcel-bundler/src/assets/VueAsset');
+const VueAsset = require('parcel/src/assets/VueAsset');
 const Logger = require('../logger');
 const ESLint = require('../eslint');
 

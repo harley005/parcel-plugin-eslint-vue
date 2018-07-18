@@ -1,4 +1,4 @@
-const JSAsset = require('parcel-bundler/src/assets/JSAsset');
+const JSAsset = require('parcel/src/assets/JSAsset');
 const Logger = require('../logger');
 const ESLint = require('../eslint');
 

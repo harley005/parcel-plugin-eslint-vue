@@ -1,4 +1,4 @@
-const logger = require('parcel-bundler/src/Logger');
+const logger = require('parcel/src/Logger');
 const eslintLogger = require('./logger');
 
 module.exports = function (bundler) {
